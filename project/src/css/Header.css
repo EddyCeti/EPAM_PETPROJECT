@@ -1,0 +1,31 @@
+
+.Navbar{
+    height: 120px;
+    color: whitesmoke;
+    align-items:center;
+    box-shadow:  0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+
+.logo{
+    height: 70px;
+    width: 100px;
+}
+
+
+
+.menu{
+    display: flex;
+    align-items:center;
+    padding-left:18vw;
+   
+}
+
+.btn{
+    padding-left: 25px;
+    color: whitesmoke;
+}
+
+.btn:focus{
+    color: burlywood;
+}
+

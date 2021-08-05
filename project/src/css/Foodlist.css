@@ -1,0 +1,55 @@
+.Foodlist{
+    margin-top: 20px;
+    display: flex;
+}
+
+.card-img{
+    height: 200px;
+    object-fit:cover;
+}
+
+.btn-product-card{
+    padding-left: 10px;
+}
+
+.product-card{
+   box-shadow:  0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+   height: 100%;
+}
+
+.card{
+    height: 100%;
+}
+
+.cards-container{
+    width: 1000px;
+}
+
+.input-product-card{
+    width: 25%;
+
+}
+
+.add-remove-btn{
+    height: 30px;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 8px;
+
+}
+
+.add-remove-btn:hover{
+    background-color: azure;
+}
+.add-remove-btn:active{
+    background-color: rgb(223, 240, 183);
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+
