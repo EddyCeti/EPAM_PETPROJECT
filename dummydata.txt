@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Spaghetti",
+    "cost": 15,
+    "description": "homemade with freshly made tomato sauce",
+    "img": "https://th.bing.com/th/id/OIP.aGmYNWbXHUTnRB6QAJzaxAHaD4?pid=ImgDet&rs=1",
+    "id": 1
+  },
+  {
+    "name": "Lasagna",
+    "cost": 20,
+    "description": "Whole wheat noodles and lean ground beef make this tasty favorite a little lighter",
+    "img": "https://th.bing.com/th/id/OIP.G2mJafbuEij4EGdqPdhoVAHaHa?pid=ImgDet&rs=1",
+    "id": 2
+  },
+  {
+    "name": "Pizza",
+    "cost": 20,
+    "description": "Thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce",
+    "img": "https://th.bing.com/th/id/R.7aa43b384e5953db75e44c8936b65c07?rik=tdE5q1pLqbqNUA&pid=ImgRaw",
+    "id": 3
+  },
+  {
+    "name": "Ravioli",
+    "cost": 5,
+    "description": "Great pasta course. The sauce works great with fish, crab, shrimp, and lobster",
+    "img": "https://th.bing.com/th/id/OIP.a1g46qwwPTs-ay9WtD30BwHaK4?pid=ImgDet&rs=1",
+    "id": 4
+  },
+  {
+    "name": "Fettuccine Alfredo",
+    "cost": 7,
+    "description": "fresh fettuccine pasta and a creamy sauce, made with butter and Parmesan cheese",
+    "img": "https://th.bing.com/th/id/OIP.h8s0hmY1_EWkam8VvEyJHQHaH2?pid=ImgDet&rs=1",
+    "id": 5
+  },
+  {
+    "name": "Polpette",
+    "cost": 12,
+    "description": "made of meat, fish, potatoes, rice or vegetables and can be prepared stewed, baked or fried.",
+    "img": "https://italiankitchenstories.com/wp-content/uploads/2017/08/IMG_9564-770x515.jpg",
+    "id": 6
+  },
+  {
+    "name": "Saltimbocca",
+    "cost": 20,
+    "description": "Open involtino (roulade) consisting of veal stuffed with prosciutto and sage, sauteed in butter with a bit of white wine. The mixture of butter and wine in which the saltimbocca is being cooked later serves as sauce for the dish.",
+    "img": "https://images.eatsmarter.com/sites/default/files/styles/920x690/public/saltimbocca-alla-romana-519690.jpg",
+    "id": 7
+  }
+]
